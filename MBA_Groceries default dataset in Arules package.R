@@ -1,14 +1,10 @@
 setwd("C:/R/13-01") #set your working directory
-
 library(arules)
-
 data(Groceries)
-
 class(Groceries)
 str(Groceries)
 
 itemFrequencyPlot(Groceries,topN=20,type="absolute")
-
 
 #You will always have to pass the minimum required support and confidence.
 #We set the minimum support to 0.001
@@ -32,7 +28,6 @@ inspect(rules[1:5])
 # The information on the data mined: total data mined, and minimum parameters.
 
 summary(rules)
-
 
 # Sorting the rules
 
