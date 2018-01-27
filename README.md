@@ -24,4 +24,4 @@ Lift is the factor by which, the co-occurence of A and B exceeds the expected pr
 </br>
 Lets see how to get the rules, confidence, lift etc using the arules package in R.
 
-#Example
+# Example
