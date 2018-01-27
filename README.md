@@ -25,3 +25,5 @@ Lift is the factor by which, the co-occurence of A and B exceeds the expected pr
 Lets see how to get the rules, confidence, lift etc using the arules package in R.
 
 # Example
+<br>Transactions data
+<br>Lets play with the Groceries data that comes with the arules pkg. Unlike dataframe, using head(Groceries)
