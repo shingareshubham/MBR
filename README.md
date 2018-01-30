@@ -27,3 +27,4 @@ Lets see how to get the rules, confidence, lift etc using the arules package in 
 # Example
 <br>Transactions data
 <br>Lets play with the Groceries data that comes with the arules pkg. Unlike dataframe, using head(Groceries)
+see the example in MBA_Groceries_default_dataset_in_Arules_package.R file
